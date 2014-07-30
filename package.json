@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "colors": "*",
-    "docular": "*"
+    "docular": "~0.6.6"
   },
   "keywords": [
     "gruntplugin", "angular", "angularjs", "documentation"
